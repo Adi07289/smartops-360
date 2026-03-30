@@ -1,0 +1,61 @@
+First Name,Last Name,Company Name,Email,Phone,Lead Source System,Lead Score,Lead Priority,Expected Close Date,Topic
+Rajesh,Kumar,TechnoForge Solutions,rajesh.kumar@technoforge.com,+91-9876543210,Website,85,Hot,2026-06-15,ERP Module Inquiry
+Priya,Sharma,RetailMax India,priya.s@retailmax.in,+91-8765432109,Referral,72,Warm,2026-07-01,POS System Upgrade
+Ankit,Verma,LogiTrack Systems,ankit.v@logitrack.com,+91-7654321098,Cold Call,35,Cold,2026-08-20,Fleet Management Demo
+Sneha,Patel,CloudNine Pvt Ltd,sneha.p@cloudnine.io,+91-6543210987,Partner,91,Hot,2026-05-30,Cloud Migration Suite
+Vikram,Singh,Bharat Auto Parts,vikram.s@bharatauto.com,+91-9988776655,Trade Show,58,Warm,2026-07-15,Inventory Module
+Deepa,Nair,FreshCart Online,deepa.n@freshcart.in,+91-8877665544,Social Media,42,Cold,2026-09-01,E-commerce Integration
+Amit,Deshmukh,Velocity Logistics,amit.d@velocitylog.com,+91-7766554433,Website,88,Hot,2026-06-10,Supply Chain Dashboard
+Kavitha,Rajan,MediCare Plus,kavitha.r@medicareplus.in,+91-6655443322,Referral,76,Warm,2026-07-20,Patient CRM Solution
+Suresh,Iyer,InnovateTech Labs,suresh.i@innovatetech.com,+91-9544332211,Partner,93,Hot,2026-05-25,DevOps Automation Suite
+Megha,Gupta,GreenLeaf Organics,megha.g@greenleaf.co.in,+91-8433221100,Website,47,Cold,2026-08-15,Organic Supply Tracker
+Rohan,Joshi,Apex Manufacturing Co,rohan.j@apexmfg.com,+91-7322110099,Trade Show,82,Hot,2026-06-25,Smart Factory Module
+Nisha,Menon,DataStream Analytics,nisha.m@datastream.in,+91-6211009988,Cold Call,63,Warm,2026-07-30,BI Dashboard License
+Arjun,Reddy,QuickShip India,arjun.r@quickship.in,+91-9100998877,Website,55,Warm,2026-08-05,Last Mile Delivery App
+Pooja,Agarwal,HealthFirst Diagnostics,pooja.a@healthfirst.com,+91-8099887766,Referral,89,Hot,2026-06-01,Lab Management System
+Manoj,Pillai,NexGen Retail,manoj.p@nexgenretail.in,+91-7988776655,Social Media,38,Cold,2026-09-10,Retail Analytics Tool
+Divya,Saxena,PrecisionTools India,divya.s@precisiontools.com,+91-6877665544,Partner,84,Hot,2026-06-20,Quality Control Module
+Karthik,Sundaram,CyberShield Security,karthik.s@cybershield.in,+91-9766554433,Website,71,Warm,2026-07-12,Endpoint Security Suite
+Ritu,Malhotra,SafeHaul Transporters,ritu.m@safehaul.com,+91-8655443322,Cold Call,29,Cold,2026-09-15,GPS Tracking Solution
+Sanjay,Bhatt,VitalCare Hospitals,sanjay.b@vitalcare.in,+91-7544332211,Trade Show,92,Hot,2026-05-28,Hospital ERP System
+Anjali,Kapoor,UrbanStyle Fashion,anjali.k@urbanstyle.in,+91-6433221100,Referral,66,Warm,2026-07-25,Fashion Inventory Mgmt
+Rahul,Tiwari,SteelForce Industries,rahul.t@steelforce.com,+91-9322110099,Website,87,Hot,2026-06-08,Steel Production Tracker
+Shreya,Bose,CloudFirst Solutions,shreya.b@cloudfirst.in,+91-8211009988,Partner,78,Warm,2026-07-05,SaaS Migration Tool
+Nikhil,Shetty,RapidMove Couriers,nikhil.s@rapidmove.in,+91-7100998877,Social Media,44,Cold,2026-08-25,Route Optimization
+Lakshmi,Venkat,WellnessHub India,lakshmi.v@wellnesshub.in,+91-6099887766,Cold Call,53,Warm,2026-08-01,Wellness Platform CRM
+Gaurav,Mehta,MegaMart Stores,gaurav.m@megamart.in,+91-9988776600,Trade Show,81,Hot,2026-06-18,Omnichannel POS System
+Tanvi,Dhawan,TechnoForge Solutions,tanvi.d@technoforge.com,+91-8877665500,Website,69,Warm,2026-07-22,HR Automation Module
+Vishal,Chauhan,RetailMax India,vishal.c@retailmax.in,+91-7766554400,Referral,95,Hot,2026-05-20,Warehouse Management
+Swati,Kulkarni,LogiTrack Systems,swati.k@logitrack.com,+91-6655443300,Partner,57,Warm,2026-08-10,Shipment Tracker API
+Arun,Prasad,CloudNine Pvt Ltd,arun.p@cloudnine.io,+91-9544332200,Website,83,Hot,2026-06-12,Multi-Cloud Orchestrator
+Rekha,Mishra,Bharat Auto Parts,rekha.m@bharatauto.com,+91-8433221100,Cold Call,41,Cold,2026-09-05,Vendor Portal Setup
+Pankaj,Jain,FreshCart Online,pankaj.j@freshcart.in,+91-7322110000,Trade Show,74,Warm,2026-07-10,Dark Store Management
+Sunita,Rao,Velocity Logistics,sunita.r@velocitylog.com,+91-6211009900,Social Media,60,Warm,2026-07-28,Freight Rate Calculator
+Mohit,Arora,MediCare Plus,mohit.a@medicareplus.in,+91-9100998800,Referral,90,Hot,2026-05-22,Telemedicine Platform
+Aditi,Banerjee,InnovateTech Labs,aditi.b@innovatetech.com,+91-8099887700,Website,48,Cold,2026-08-18,IoT Gateway Manager
+Vivek,Nambiar,GreenLeaf Organics,vivek.n@greenleaf.co.in,+91-7988776600,Partner,86,Hot,2026-06-05,Farm-to-Fork Tracker
+Neha,Chopra,Apex Manufacturing Co,neha.c@apexmfg.com,+91-6877665500,Cold Call,33,Cold,2026-09-20,Maintenance Scheduler
+Siddharth,Hegde,DataStream Analytics,siddharth.h@datastream.in,+91-9766554400,Website,79,Warm,2026-07-08,Data Lake Integration
+Rashi,Pandey,QuickShip India,rashi.p@quickship.in,+91-8655443300,Trade Show,67,Warm,2026-07-18,Return Logistics Module
+Ashwin,Kumar,HealthFirst Diagnostics,ashwin.k@healthfirst.com,+91-7544332200,Referral,94,Hot,2026-05-18,AI Diagnostics Engine
+Meera,Shah,NexGen Retail,meera.s@nexgenretail.in,+91-6433221100,Social Media,51,Warm,2026-08-08,Customer Loyalty CRM
+Pranav,Deshpande,PrecisionTools India,pranav.d@precisiontools.com,+91-9322110000,Website,73,Warm,2026-07-14,CNC Machine Analytics
+Aparna,Krishnan,CyberShield Security,aparna.k@cybershield.in,+91-8211009900,Partner,88,Hot,2026-06-02,SOC Monitoring Suite
+Tarun,Oberoi,SafeHaul Transporters,tarun.o@safehaul.com,+91-7100998800,Cold Call,36,Cold,2026-09-12,Driver Safety App
+Jyoti,Naik,VitalCare Hospitals,jyoti.n@vitalcare.in,+91-6099887700,Website,80,Hot,2026-06-22,OPD Queue Management
+Harsh,Agrawal,UrbanStyle Fashion,harsh.a@urbanstyle.in,+91-9988776611,Trade Show,62,Warm,2026-07-30,AR Try-On Feature
+Pallavi,Sinha,SteelForce Industries,pallavi.s@steelforce.com,+91-8877665511,Referral,96,Hot,2026-05-15,Plant Safety Dashboard
+Kunal,Thakur,CloudFirst Solutions,kunal.t@cloudfirst.in,+91-7766554411,Website,45,Cold,2026-08-28,API Gateway Manager
+Ananya,Ghosh,RapidMove Couriers,ananya.g@rapidmove.in,+91-6655443311,Partner,77,Warm,2026-07-06,Delivery Slot Optimizer
+Sameer,Patil,WellnessHub India,sameer.p@wellnesshub.in,+91-9544332211,Social Media,54,Warm,2026-08-03,Mental Health Tracker
+Ishita,Luthra,MegaMart Stores,ishita.l@megamart.in,+91-8433221111,Cold Call,70,Warm,2026-07-16,Smart Checkout System
+Abhishek,Rane,TechnoForge Solutions,abhishek.r@technoforge.com,+91-7322110011,Website,91,Hot,2026-05-26,Production Line Monitor
+Ritika,Das,RetailMax India,ritika.d@retailmax.in,+91-6211009911,Referral,65,Warm,2026-07-24,Demand Forecasting Tool
+Tushar,Goel,LogiTrack Systems,tushar.g@logitrack.com,+91-9100998811,Trade Show,82,Hot,2026-06-14,Container Tracking Suite
+Sonali,Mukherjee,CloudNine Pvt Ltd,sonali.m@cloudnine.io,+91-8099887711,Partner,39,Cold,2026-09-08,Backup as a Service
+Dev,Khanna,Bharat Auto Parts,dev.k@bharatauto.com,+91-7988776611,Website,75,Warm,2026-07-02,Spare Parts Catalog
+Vaishali,Pendse,FreshCart Online,vaishali.p@freshcart.in,+91-6877665511,Social Media,87,Hot,2026-06-08,Subscription Box Engine
+Aarav,Chandra,Velocity Logistics,aarav.c@velocitylog.com,+91-9766554411,Referral,50,Warm,2026-08-12,Cold Chain Monitor
+Manisha,Thakkar,MediCare Plus,manisha.t@medicareplus.in,+91-8655443311,Website,84,Hot,2026-06-20,Pharmacy Mgmt System
+Yash,Dalal,InnovateTech Labs,yash.d@innovatetech.com,+91-7544332211,Cold Call,31,Cold,2026-09-18,Legacy Code Migrator
+Charvi,Sethi,GreenLeaf Organics,charvi.s@greenleaf.co.in,+91-6433221111,Trade Show,68,Warm,2026-07-20,Organic Certification CRM

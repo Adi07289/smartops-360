@@ -1,0 +1,36 @@
+Topic,Account Name,Est. Revenue,Est. Close Date,Sales Stage,Risk Level,Deal Category,Competitor
+ERP Module Implementation,TechnoForge Solutions,1500000,2026-07-15,Propose,Low,New Business,Zoho
+POS System Overhaul,RetailMax India,1800000,2026-06-30,Develop,Medium,New Business,Freshworks
+Fleet Management Suite,LogiTrack Systems,900000,2026-08-20,Qualify,High,New Business,Oracle
+Cloud Migration Project,CloudNine Pvt Ltd,2200000,2026-06-10,Close,Low,Upsell,AWS
+Inventory Automation,Bharat Auto Parts,1200000,2026-07-01,Propose,Low,Renewal,SAP
+E-commerce Platform,FreshCart Online,1650000,2026-08-15,Develop,Medium,New Business,Shopify
+Supply Chain Dashboard,Velocity Logistics,1100000,2026-06-25,Propose,Low,New Business,Blue Yonder
+Patient CRM Deployment,MediCare Plus,1950000,2026-07-20,Develop,Medium,New Business,Salesforce
+DevOps Automation,InnovateTech Labs,2500000,2026-06-05,Close,Low,Upsell,Atlassian
+Organic Supply Tracker,GreenLeaf Organics,750000,2026-08-30,Qualify,High,New Business,None
+Smart Factory IoT,Apex Manufacturing Co,2800000,2026-07-10,Propose,Medium,New Business,Siemens
+BI Dashboard License,DataStream Analytics,1300000,2026-06-20,Develop,Low,Renewal,Tableau
+Last Mile Delivery App,QuickShip India,980000,2026-08-05,Qualify,Medium,New Business,FarEye
+Lab Management System,HealthFirst Diagnostics,1750000,2026-06-15,Close,Low,New Business,Cerner
+Retail Analytics Platform,NexGen Retail,1050000,2026-09-01,Qualify,High,New Business,SAS
+Quality Control Module,PrecisionTools India,1400000,2026-07-05,Develop,Low,Cross-sell,Hexagon
+Endpoint Security Suite,CyberShield Security,1900000,2026-06-28,Propose,Medium,New Business,Crowdstrike
+GPS Tracking Integration,SafeHaul Transporters,650000,2026-08-25,Qualify,High,New Business,Locus
+Hospital ERP System,VitalCare Hospitals,3200000,2026-06-08,Close,Low,New Business,Infor
+Fashion Inventory Mgmt,UrbanStyle Fashion,850000,2026-07-25,Develop,Medium,New Business,None
+Steel Production Tracker,SteelForce Industries,2100000,2026-06-18,Propose,Low,New Business,AVEVA
+SaaS Migration Tool,CloudFirst Solutions,1150000,2026-07-12,Develop,Medium,New Business,Azure Migrate
+Route Optimization,RapidMove Couriers,720000,2026-08-15,Qualify,Medium,New Business,Locus
+Wellness Platform CRM,WellnessHub India,880000,2026-07-30,Develop,Low,New Business,Zendesk
+Omnichannel POS Suite,MegaMart Stores,2400000,2026-06-22,Propose,Low,New Business,Square
+HR Automation Module,TechnoForge Solutions,1350000,2026-07-28,Develop,Medium,Cross-sell,BambooHR
+Warehouse Management,RetailMax India,1600000,2026-06-12,Close,Low,Upsell,Manhattan Associates
+Multi-Cloud Orchestrator,CloudNine Pvt Ltd,2700000,2026-07-08,Propose,Medium,Upsell,VMware
+Telemedicine Platform,MediCare Plus,2050000,2026-06-30,Develop,Low,Cross-sell,Practo
+Farm-to-Fork Tracker,GreenLeaf Organics,800000,2026-08-10,Qualify,Medium,New Business,None
+AI Diagnostics Engine,HealthFirst Diagnostics,3500000,2026-06-05,Close,Low,Upsell,IBM Watson
+Plant Safety Dashboard,SteelForce Industries,1850000,2026-07-15,Propose,Low,Cross-sell,Honeywell
+OPD Queue Management,VitalCare Hospitals,950000,2026-07-22,Develop,Medium,Cross-sell,None
+Delivery Slot Optimizer,RapidMove Couriers,680000,2026-08-20,Qualify,High,New Business,Delhivery
+Smart Checkout System,MegaMart Stores,2150000,2026-06-28,Propose,Low,Upsell,NCR
